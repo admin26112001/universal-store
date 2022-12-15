@@ -28,8 +28,7 @@
                         <i class="fas fa-headset"></i>
                         <span>CSKH : 1800 2611</span>
                     </a>
-                </div>
-	        
+				</div>
 	    </div>
 	</div>
         
@@ -71,50 +70,13 @@
 	            	<c:if test="${not empty sumQuantity}">
 	            		<div class="number">${sumQuantity}</div>
 	            	</c:if>
-	                
 	                <i class="fa fa-shopping-cart"></i>
 	                <p class="masthead__cart-item">Cart</p>
 	            </a>
-                        
                     <a href="<%=request.getContextPath()%>/admin-dashboard" class="masthead__cart">
 	                <p class="masthead__cart-item" >Admin</p>
-	            </a>    
-                        
-                        
+	            </a>
 	        </div>
-                        
-	        </div>
-	    </div>
-	    <div class="navbar">
-	        <div class="navbar__container">
-	            <div class="navbar__menu">
-	                <ul class="navbar__menu-group">
-	                    <li class="navbar__menu-item">
-	                        <a href="#">
-	                            <i class="far fa-credit-card"></i>
-	                            <p>Hướng dẫn thanh toán</p>
-	                        </a>
-	                    </li>
-	                    <li class="navbar__menu-item">
-	                        <a href="#">
-	                        <i class="fas fa-truck-moving"></i>
-	                        <p>Chính sách giao hàng</p>
-	                    </a>
-	                    </li>
-	                    <li class="navbar__menu-item">
-	                        <a href="#">
-	                        <i class="fas fa-shield-alt"></i>
-	                        <p>Chính sách bảo hành</p>
-	                    </a>
-	                    </li>
-	                    <li class="navbar__menu-item">
-	                        <a href="#">
-	                        <i class="fas fa-tags"></i>
-	                        <p>Tổng hợp khuyến mãi</p>
-	                    </a>
-	                    </li>
-	                </ul>
-	            </div>
-	        </div>
-	    </div>
+		</div>
+	</div>
 </div>

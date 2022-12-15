@@ -2,16 +2,42 @@
 <%@include file="/common/taglib.jsp" %>
 <footer class="footer">
     <div class="footer__container">
+        <div class="navbar">
+            <div class="navbar__container">
+                <div class="navbar__menu">
+                    <ul class="navbar__menu-group">
+                        <li class="navbar__menu-item">
+                            <a href="#">
+                                <i class="far fa-credit-card"></i>
+                                <p>Hướng dẫn thanh toán</p>
+                            </a>
+                        </li>
+                        <li class="navbar__menu-item">
+                            <a href="#">
+                                <i class="fas fa-truck-moving"></i>
+                                <p>Chính sách giao hàng</p>
+                            </a>
+                        </li>
+                        <li class="navbar__menu-item">
+                            <a href="#">
+                                <i class="fas fa-shield-alt"></i>
+                                <p>Chính sách bảo hành</p>
+                            </a>
+                        </li>
+                        <li class="navbar__menu-item">
+                            <a href="#">
+                                <i class="fas fa-tags"></i>
+                                <p>Tổng hợp khuyến mãi</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
         <div class="newsletter">
             <div class="newsletter-content">
-                <h3>Các chương trình Ưu đãi đến từ Universal Store</h3>
-                <p>Nhận thông báo của cửa hàng về các chương trình khuyến mãi</p>
-            </div>
-            <div class="newsletter-form">
-                <form action="">
-                    <input type="email" name="" id="" placeholder="Nhập Email của bạn...">
-                    <button type="submit">Đăng ký</button>
-                </form>
+                <h3>UNIVERSAL STORE- GÌ CŨNG CÓ, MUA HẾT Ở UNIVERSAL STORE</h3>
+                <p>Universal Store - ứng dụng mua sắm trực tuyến thú vị, tin cậy, an toàn và miễn phí! Universal Store là nền tảng giao dịch trực tuyến hàng đầu ở Đông Nam Á, có trụ sở chính ở Việt Nam, đã có mặt ở khắp các khu vực Singapore, Malaysia, Indonesia, Thái Lan, Philippines, Đài Loan, Brazil, México, Colombia, Poland & Spain. Với sự đảm bảo của Universal Store, bạn sẽ mua hàng trực tuyến an tâm và nhanh chóng hơn bao giờ hết!</p>
             </div>
         </div>
         <div class="contact">
@@ -48,16 +74,16 @@
                 <p>Thanh toán bằng Cart</p>
             </div>
         </div>
-        <div class="nfo">
+        <div class="info">
             <p>Địa chỉ: 53/6/1B, đường số 18, Khu phố 5, P. Linh Trung, TP. Thủ Đức, TP. HCM, Việt Nam. Email: nguyentienhoangvu2611@gmail.com</p>
         </div>
-        <div class="nfo">
+        <div class="info">
             <p>Chịu Trách Nhiệm Quản Lý Nội Dung: Nguyễn Tiến Hoàng Vũ - Điện thoại liên hệ: 0978335489</p>
         </div>
-        <div class="nfo">
+        <div class="info">
             <p>Mã số doanh nghiệp: 1234567890 do Sở Kế hoạch & Đầu tư TP. Hồ Chí Minh cấp lần đầu ngày 26/11/2022</p>
         </div>
-        <div class="nfo">
+        <div class="info">
             <p>© 2022 - Bản quyền thuộc về Universal Store</p>
         </div>
     </div>
