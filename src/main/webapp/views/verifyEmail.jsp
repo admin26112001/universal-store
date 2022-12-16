@@ -24,7 +24,7 @@
                		<div class="form__title">Xác nhận Email</div>
                		<div class="form__group">
 	               		<div class="form__item">
-	                        <label for="codeVerifyEmail">Nhập mã code đã gửi vào email của bạn: Bao gồm 6 số</label>
+	                        <label for="codeVerifyEmail">Nhập mã đã được gửi vào email của bạn: Bao gồm 6 số</label>
 	                        <input type="number" name="codeVerifyEmail" id="codeVerifyEmail" class="form__input" required="required"> 
 	                    </div>
                     </div>

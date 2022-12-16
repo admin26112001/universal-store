@@ -25,7 +25,7 @@
                     <div class="form__title">Đăng ký</div>
                     <div class="form__group">
                         <div class="form__item">
-                            <label for="name">Họ và tên</label>
+                            <label for="fullName">Họ và tên</label>
                             <input type="text" name="fullName" id="fullName" value="" class="form__input" required="required"> 
                         </div>
                         <div class="form__item">
@@ -48,13 +48,13 @@
                     <div class="form__term">
                         <input type="checkbox" name="" id="checkbox">
                         <label for="checkbox" class="checkbox__label">
-                           <p>Tôi đã đọc và đồng ý</p> <a href="#">Điều khoản dịch vụ</a> 
+                           <p>Tôi đã đọc và đồng ý</p> <a href="#">Điều khoản dịch vụ</a>
                             <i class="fas fa-check"></i>
                         </label>
                     </div>
                     <input type="button" class="btn__submit" value="Đăng ký" id="btnAddUser">
                     <div class="form__already">
-                        <p>Đã có tài khoản ? </p>
+                        <p>Tôi đã có tài khoản --> </p>
                         <a href="<c:url value='/dang-nhap?action=login'/>" class="return-sigin">Đăng nhập</a>
                     </div>
                 </form>

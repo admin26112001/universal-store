@@ -36,7 +36,7 @@
                         Đăng Nhập
                     </button>
                     <div class="form__already">
-                        <p>Chưa có tài khoản ? </p>
+                        <p>Cùng tạo tài khoản nào --> </p>
                         <a href="<c:url value='/dang-ky?action=signup'/>" class="signup">Đăng ký</a>
                     </div>
                 </form> 

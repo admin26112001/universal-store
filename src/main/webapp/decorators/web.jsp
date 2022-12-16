@@ -22,7 +22,7 @@
     
     <link rel="stylesheet" href="<c:url value='/template/web/css/reset.css'/>">
     <link rel="stylesheet" href="<c:url value='/template/web/css/style.css'/>">
-    <link rel="stylesheet" href="<c:url value='/template/web/css/login.css'/>">
+    <link rel="stylesheet" href="<c:url value='/template/web/css/login1.css'/>">
     <link rel="stylesheet" href="<c:url value='/template/web/css/account.css'/>">
     <link rel="stylesheet" href="<c:url value='/template/web/css/cart.css'/>">
     <link rel="stylesheet" href="<c:url value='/template/web/css/product-details.css'/>">

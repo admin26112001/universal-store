@@ -68,7 +68,7 @@
                     <br>
                     
                     <div class="form-item">
-                        <h4 class="title">INFORMATION DETAILS</h4>
+                        <h4 class="title">Information Details</h4>
                     </div>
                     <div class="form-item">
                         <label for="camera">Camera</label>

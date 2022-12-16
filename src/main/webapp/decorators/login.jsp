@@ -23,7 +23,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="<c:url value='/template/web/css/reset.css'/>">
     <link rel="stylesheet" href="<c:url value='/template/web/css/style.css'/>">
-    <link rel="stylesheet" href="<c:url value='/template/web/css/login.css'/>">
+    <link rel="stylesheet" href="<c:url value='/template/web/css/login1.css'/>">
 </head>
 <body>
 
