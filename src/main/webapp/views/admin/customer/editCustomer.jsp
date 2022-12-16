@@ -14,7 +14,7 @@
         <div class="page-content">
 
             <div style="font-family: Arial, Helvetica, sans-serif; font-size :2rem" class="page-header">         
-                    ACCOUNT
+                    Your Information
             </div><!-- /.page-header -->
             <div class="form__wapper form__wapper-user-add">
             <c:if test="${not empty messageResponse}">
@@ -25,7 +25,7 @@
 			    window.addEventListener("alert",function(){
 			         alert("${messageResponse}");
 			    }
-			    </script>
+                </script>
 			</c:if>
                 <form class="form" id="form-user">                 
                     <div class="form-item">
@@ -49,7 +49,7 @@
                         <input type="text" name="address" id="address" value='${USER.address}' required="required">
                     </div>
                     <div class="form-item">
-                    <label for="role">Role</label>
+                    <label for="roleId">Role</label>
                         <select class="form-control" id="roleId" name="roleId">
                                <c:if test="${empty USER.role}">
                                	<option>Choose one</option>

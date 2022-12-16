@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-    <title>Document</title>
+    <title>Images</title>
 </head>
 <body>
 <div class="main-content">
@@ -35,10 +35,10 @@
                 <div class="container__right-content">
                  <table style="font-family: Arial, Helvetica, sans-serif;" class="table">
                      <thead>
-                         <th style="width: 5%" >ID</th>
+                         <th style="width: 5%" >Id</th>
                          <th style="width: 25%" >Image Big</th>
                          <th style="width: 25%" >Image Small</th>
-                         <th style="width: 10%" >Product ID</th>
+                         <th style="width: 10%" >Product Id</th>
                          <th style="width: 20%" >Product Name</th>                    
                          <th style="width: 15%" >Action</th>
                      </thead>

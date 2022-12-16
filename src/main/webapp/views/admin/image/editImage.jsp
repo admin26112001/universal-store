@@ -6,14 +6,14 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-    <title>Document</title>
+    <title>Update & Add Images</title>
 </head>
 <body>
 <div class="main-content">
 	<div class="main-content-inner">
         <div class="page-content">
             <div style="font-family: Arial, Helvetica, sans-serif; font-size :2rem" class="page-header">         
-                    IMAGE
+                    Images
             </div><!-- /.page-header -->
             <div class="form__wapper form__wapper-user-add">
             <c:if test="${not empty messageResponse}">
@@ -61,7 +61,7 @@
                     <div class="form-item">
                         
                         <c:if test="${not empty IMAGE}">
-                        	<button class="form-btn" type="submit" value="Update">Update</button>                     
+                        	<button class="form-btn" type="submit" value="Update">Update</button>
                         </c:if>
                         <c:if test="${empty IMAGE}">
                         	<button class="form-btn" type="submit" value="Add">Add</button>

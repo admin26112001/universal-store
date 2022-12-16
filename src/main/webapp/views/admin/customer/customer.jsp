@@ -26,7 +26,7 @@
                 </a>
             </div>
             <div style="font-family: Arial, Helvetica, sans-serif; font-size :2rem" class="page-header">         
-                    ACCOUNT
+                    Your Information
             </div><!-- /.page-header -->
           
             
@@ -34,7 +34,7 @@
                 <div class="container__right-content">
                  <table style="font-family: Arial, Helvetica, sans-serif;" class="table">
                      <thead>
-                         <th style="width: 5%" >ID</th>
+                         <th style="width: 5%" >Id</th>
                          <th style="width: 20%" >Email</th>
                          <th style="width: 15%" >Full Name</th>
                          <th style="width: 10%" >Password</th>

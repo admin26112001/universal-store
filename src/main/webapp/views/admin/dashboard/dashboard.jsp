@@ -13,7 +13,7 @@
             <div class="container-fluid">
 
                     <!-- Page Heading -->
-                    <div style="font-family: Arial, Helvetica, sans-serif; font-size :2rem" class="page-header">DASHBOARD</div>
+                    <div style="font-family: Arial, Helvetica, sans-serif; font-size :2rem" class="page-header">Dashboard</div>
                     <!-- Content Row -->
                     <div class="row">
 
@@ -24,7 +24,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">
-                                                CUSTOMER NUMBER</div>
+                                                Number of Accounts</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">${CUSTOMERNUMBER}</div>
                                         </div>
                                         <div class="col-auto">
@@ -41,7 +41,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-success text-uppercase mb-1">
-                                                Earnings</div>
+                                                Store Revenue</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">
                                                 <c:set var="p" value="${EARNING}"/>
                                                 <fmt:setLocale value="vi_VN"/>
@@ -62,7 +62,7 @@
                                 <div class="card-body">
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
-                                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">ORDER NUMBER
+                                            <div class="text-xs font-weight-bold text-info text-uppercase mb-1">Number of OrdersR
                                             </div>
                                             <div class="row no-gutters align-items-center">
                                                 <div class="col-auto">
@@ -92,7 +92,7 @@
                                     <div class="row no-gutters align-items-center">
                                         <div class="col mr-2">
                                             <div class="text-xs font-weight-bold text-warning text-uppercase mb-1">
-                                                PRODUCT NUMBER</div>
+                                                Number of Products</div>
                                             <div class="h5 mb-0 font-weight-bold text-gray-800">${PRODUCTNUMBER}</div>
                                         </div>
                                         <div class="col-auto">

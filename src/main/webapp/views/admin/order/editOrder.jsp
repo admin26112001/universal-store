@@ -6,7 +6,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-    <title>Document</title>
+    <title>Order</title>
 </head>
 <body>
 <div class="main-content">
@@ -121,5 +121,6 @@
         });
     }
 </script>
+</div>
 </body>
 </html>
